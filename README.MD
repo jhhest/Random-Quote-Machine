@@ -15,7 +15,9 @@ if you like to know more about the other portfolio projects that are part of the
 
 ## Project description.
 
-Front End Libraries Projects - Build a Random Quote Machine
+### Description from freeCodeCamp website.
+
+> Front End Libraries Projects - Build a Random Quote Machine
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
@@ -33,5 +35,7 @@ You can use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and
 - User Story #9: My quote machine should fetch the new quote's author when the #new-quote button is clicked and display it in the #author element.
 - User Story #10: I can tweet the current quote by clicking on the #tweet-quotea element. This a element should include the "twitter.com/intent/tweet" path in its href - attribute to tweet the current quote.
 - User Story #11: The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
-- You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/- testable-projects-fcc/v1/bundle.js
-- Once you're done, submit the URL to your working project with all its tests passing.
+
+You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/- testable-projects-fcc/v1/bundle.js
+
+Once you're done, submit the URL to your working project with all its tests passing.
