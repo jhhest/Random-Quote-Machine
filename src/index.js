@@ -13,7 +13,7 @@ ReactDOM.render(
 
 /* 
 * FIXED: User Story #1: I can see a wrapper element with a corresponding id="quote-box".
-* TODO: User Story #2: Within #quote-box, I can see an element with a corresponding id="text".
+* FIXED: User Story #2: Within #quote-box, I can see an element with a corresponding id="text".
 TODO: User Story #3: Within #quote-box, I can see an element with a corresponding id="author".
 TODO: User Story #4: Within #quote-box, I can see a clickable element with a corresponding id="new-quote".
 TODO: User Story #5: Within #quote-box, I can see a clickable a element with a corresponding id="tweet-quote".
