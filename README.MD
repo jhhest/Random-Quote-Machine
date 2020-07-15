@@ -13,6 +13,22 @@ if you like to know more about the other portfolio projects that are part of the
 
 - [Introduction to the Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/)
 
+# Used software. 
+
+- vscode
+- npm 
+- vscode extension "better comments" 
+- create-react-app
+- [gitflow](https://github.com/nvie/gitflow)
+
+## Releases
+### Release 0.1.0
+* initialized an empty create-react-app. 
+* Added the usecases as a comment in index. 
+* Every usecase has a label "TODO:". I use the vscode extension "better comments" to highlight labels like these. A simple way of keeping track of which use-case i implemented. 
+* When a usecase is finished is replace the "TODO:" label with "* FIXED:"
+
+
 ## Project description.
 
 ### Description from freeCodeCamp website.
