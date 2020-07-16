@@ -18,7 +18,7 @@ ReactDOM.render(
 * FIXED: User Story #4: Within #quote-box, I can see a clickable element with a corresponding id="new-quote".
 * FIXED: User Story #5: Within #quote-box, I can see a clickable a element with a corresponding id="tweet-quote".
 * FIXED: User Story #6: On first load, my quote machine displays a random quote in the element with id="text".
-* FIXED: User Story #7: On first load, my quote machine displays the random quote's author in the element with id="author".
+* TODO: User Story #7: On first load, my quote machine displays the random quote's author in the element with id="author".
 
 TODO: User Story #8: When the #new-quote button is clicked, my quote machine should fetch a new quote and display it in the #text element.
 TODO: User Story #9: My quote machine should fetch the new quote's author when the #new-quote button is clicked and display it in the #author element.
